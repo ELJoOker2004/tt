@@ -89,7 +89,7 @@ setTimeout(function () {
           _0x40f324(unsafeWindow, 'Config', async () => {
             await _0x40f324(unsafeWindow.Config, 'data', async () => {
               unsafeWindow.ConfirmView.Show(
-                'ØªÙ\u2026 Ù\u2026Ù\u2020Ø\xADÙƒ Ø\xA5Ø\xB0Ù\u2020 Ø\xA7Ø\xB3ØªØ\xAEØ\xAFØ\xA7Ù\u2026 Ø\xA7Ù\u201EØ\xB3ÙƒØ\xB1Ø\xA8Øª\n            Ø\xA8Ø\xB1Ù\u2026Ø\xACØ\xA9 Ø\xA5Ø\xB3Ù\u201EØ\xA7Ù\u2026 ÙƒØ\xA7Ù\u2026Ù\u201E Ø\xB1Ø\xACØ\xA8'
+                'ELJoOker bta3o fo2 el game3'
               )
             })
           })
@@ -3564,7 +3564,7 @@ setTimeout(function () {
               console.log('ERROR', _0x1e9eba)
             }
             alert(
-              'ÙŠØªÙ\u2026 Ø\xADØµØ\xAF Ø\xACÙ\u2026ÙŠØ\xB9 Ø\xA7Ù\u201EØ\xA3ØµØ\xAFÙ\u201AØ\xA7Ø\xA1'
+              'e'
             )
           }
           document.body.appendChild(_0x34dad6)
@@ -10293,29 +10293,10 @@ setTimeout(function () {
         })()
         setTimeout(function () {
           unsafeWindow.ConfirmView.Show(
-            'ØªÙ\u2026 Ù\u2026Ù\u2020Ø\xADÙƒ Ø\xA5Ø\xB0Ù\u2020 Ø\xA7Ø\xB3ØªØ\xAEØ\xAFØ\xA7Ù\u2026 Ø\xA7Ù\u201EØ\xB3ÙƒØ\xB1Ø\xA8Øª\nØ\xA8Ø\xB1Ù\u2026Ø\xACØ\xA9 Ø\xA5Ø\xB3Ù\u201EØ\xA7Ù\u2026 ÙƒØ\xA7Ù\u2026Ù\u201E Ø\xB1Ø\xACØ\xA8'
+            'bta3 ELJoOker la yzal fo2'
           )
         }, 10000)
-      } else {
-        if (_0x43b356 == 'banned_3ars') {
-          SRbtn.disabled = true
-          SRbtn.textContent =
-            ' ØªÙ\u2026 Ø\xADØ\xB8Ø\xB1Ùƒ - ØªÙˆØ\xA7ØµÙ\u201E Ù\u2026Ø\xB9ÙŠ Ø\xB9Ù\u201EÙ\u2030 Ù\x81ÙŠØ\xB3Ø\xA8ÙˆÙƒ Ø\xADØ\xB3Ø\xA7Ø\xA8ÙŠ Ù\u2026ÙˆØ\xABÙ\u201A : Eslam Kamel Ragab'
-          localStorage.setItem('banned_3ars', Date.now() + 1728000000)
-          let _0x469932 = localStorage.getItem('banned_3ars')
-          if (_0x469932) {
-            if (Date.now() > _0x469932) {
-              localStorage.removeItem('banned_3ars')
-            } else {
-              setTimeout(function () {
-                unsafeWindow.RefreshConfirmView.Show(
-                  'ØªÙ\u2026 Ø\xADØ\xB8Ø\xB1Ùƒ Ù\u2026Ù\u2020 Ø\xA7Ø\xB3ØªØ\xAEØ\xAFØ\xA7Ù\u2026 Ø\xA7Ù\u201EØ\xB3ÙƒØ\xB1Ø\xA8Øª\nØ\xA8Ø\xB1Ù\u2026Ø\xACØ\xA9 Ø\xA5Ø\xB3Ù\u201EØ\xA7Ù\u2026 ÙƒØ\xA7Ù\u2026Ù\u201E Ø\xB1Ø\xACØ\xA8'
-                )
-              }, 10000)
-            }
-          }
-        }
-      }
+      } 
     })
     .catch((_0x58f4d3) => console.error('Error:', _0x58f4d3))
 }, 800)
@@ -10328,7 +10309,7 @@ whenDefined(unsafeWindow, 'Config', () => {
       _0x18d51b.giftinvisiable = false
     })
     unsafeWindow.ConfirmView.Show(
-      '3eTaRed-FF V2\nØ\xA8Ø\xB1Ù\u2026Ø\xACØ\xA9 Ù\u2026/Ø\xA5Ø\xB3Ù\u201EØ\xA7Ù\u2026 ÙƒØ\xA7Ù\u2026Ù\u201E Ø\xB1Ø\xACØ\xA8\nfacebook.com/ELJoOker2004/\nÙ\u2026Ù\u2026Ù\u2020ÙˆØ\xB9 Ø\xA7Ù\u201EØªÙ\u201EØ\xA7Ø\xB9Ø\xA8 Ø\xA7Ùˆ Ø\xB3ØªØ\xADØ\xB8Ø\xB1\nØ\xB4ÙƒØ\xB1 Ø\xAEØ\xA7Øµ Ù\u201EØ\xA3Ø\xADÙ\u2026Ø\xAF Ø\xB9Ø\xA8Ø\xAF Ø\xA7Ù\u201EØ\xB9Ø\xA7Ù\u201E Ø\xB3Ø\xA7Ø\xB9Ø\xAF Ø\xA8Ù\u2026Ù\u201EÙ\x81Ø\xA7Øª ØªØ\xB4Ø\xA7Ø\xB1Ù\u201EÙŠØ\xB2'
+      'bta3 el joker fo2'
     )
   })
 })
