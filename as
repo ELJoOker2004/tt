@@ -10328,7 +10328,7 @@ whenDefined(unsafeWindow, 'Config', () => {
       _0x18d51b.giftinvisiable = false
     })
     unsafeWindow.ConfirmView.Show(
-      'eslam 3la bta3y , cracked by ELJoOker'
+      '3eTaRed-FF V2\nØ\xA8Ø\xB1Ù\u2026Ø\xACØ\xA9 Ù\u2026/Ø\xA5Ø\xB3Ù\u201EØ\xA7Ù\u2026 ÙƒØ\xA7Ù\u2026Ù\u201E Ø\xB1Ø\xACØ\xA8\nfacebook.com/ELJoOker2004/\nÙ\u2026Ù\u2026Ù\u2020ÙˆØ\xB9 Ø\xA7Ù\u201EØªÙ\u201EØ\xA7Ø\xB9Ø\xA8 Ø\xA7Ùˆ Ø\xB3ØªØ\xADØ\xB8Ø\xB1\nØ\xB4ÙƒØ\xB1 Ø\xAEØ\xA7Øµ Ù\u201EØ\xA3Ø\xADÙ\u2026Ø\xAF Ø\xB9Ø\xA8Ø\xAF Ø\xA7Ù\u201EØ\xB9Ø\xA7Ù\u201E Ø\xB3Ø\xA7Ø\xB9Ø\xAF Ø\xA8Ù\u2026Ù\u201EÙ\x81Ø\xA7Øª ØªØ\xB4Ø\xA7Ø\xB1Ù\u201EÙŠØ\xB2'
     )
   })
 })
