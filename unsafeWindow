@@ -10296,7 +10296,26 @@ setTimeout(function () {
             'bta3 ELJoOker la yzal fo2'
           )
         }, 10000)
-      } 
+      } else {
+        if (_0x43b356 == 'banned_3ars') {
+          SRbtn.disabled = true
+          SRbtn.textContent =
+            ' ØªÙ\u2026 Ø\xADØ\xB8Ø\xB1Ùƒ - ØªÙˆØ\xA7ØµÙ\u201E Ù\u2026Ø\xB9ÙŠ Ø\xB9Ù\u201EÙ\u2030 Ù\x81ÙŠØ\xB3Ø\xA8ÙˆÙƒ Ø\xADØ\xB3Ø\xA7Ø\xA8ÙŠ Ù\u2026ÙˆØ\xABÙ\u201A : Eslam Kamel Ragab'
+          localStorage.setItem('banned_3ars', Date.now() + 1728000000)
+          let _0x469932 = localStorage.getItem('banned_3ars')
+          if (_0x469932) {
+            if (Date.now() > _0x469932) {
+              localStorage.removeItem('banned_3ars')
+            } else {
+              setTimeout(function () {
+                unsafeWindow.RefreshConfirmView.Show(
+                  'ØªÙ\u2026 Ø\xADØ\xB8Ø\xB1Ùƒ Ù\u2026Ù\u2020 Ø\xA7Ø\xB3ØªØ\xAEØ\xAFØ\xA7Ù\u2026 Ø\xA7Ù\u201EØ\xB3ÙƒØ\xB1Ø\xA8Øª\nØ\xA8Ø\xB1Ù\u2026Ø\xACØ\xA9 Ø\xA5Ø\xB3Ù\u201EØ\xA7Ù\u2026 ÙƒØ\xA7Ù\u2026Ù\u201E Ø\xB1Ø\xACØ\xA8'
+                )
+              }, 10000)
+            }
+          }
+        }
+      }
     })
     .catch((_0x58f4d3) => console.error('Error:', _0x58f4d3))
 }, 800)
